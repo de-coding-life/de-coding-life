@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Vats</h1>
-<h3 align="center">A passionate Competitive Programmer and Full Stack Web Developer and from India</h3>
+<h3 align="center">A passionate Competitive Programmer and Full Stack Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Selenium Webdriver**
 
